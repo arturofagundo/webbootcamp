@@ -1,0 +1,13 @@
+#hi:hover {
+color: rgb(200,45,185);
+}
+#hi {
+	color:brown;
+}
+/*just highlight a piece of text and hit back space to get back*/
+#boom {
+	border: 3px solid #FEB2DD;
+}
+
+
+
